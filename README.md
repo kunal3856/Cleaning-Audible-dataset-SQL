@@ -3,7 +3,7 @@ We found this web scrapped data from Kaggle which contains information about the
 
 ### Uncleaned Preview of Data
 
-This dataset has few corrections to made like 
+This dataset has few corrections to made like: 
 
 -  Clean the **time** column to show only minutes rather than information of hours and minutes in text format that too in integer format for comparitive analysis.
 -  Update **price** column to handle 'free' text rows.
